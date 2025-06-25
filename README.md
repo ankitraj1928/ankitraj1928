@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitraj1928
 - 👀 I’m interested in Traveling and exploring new places.
-- 🌱 I’m currently learning Data science and AI/ML.
+- 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on some projects on Web DevOps.
 - 📫 How to reach me - ankit.rajj1928@gmail.com
 
